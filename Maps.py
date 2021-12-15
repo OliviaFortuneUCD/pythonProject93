@@ -1,4 +1,5 @@
 #https://coronavirus.data.gov.uk/details/developers-guide/main-api#structure-example
+#https://covid-19.geohive.ie/datasets/a0e3a1c53ad8422faf00604ee08955db_0/api
 
 from requests import get
 
